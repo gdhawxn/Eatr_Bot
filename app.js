@@ -1,9 +1,9 @@
 var botgram = require('botgram');
 var request = require('request');
-var bot = new botgram("604051219:AAHjUOpiS-DoZe1LSW5SZ5ltj1h0b68mawc");
+var bot = new botgram(Key from Telegram);
 
 const Zomato = require('zomato.js');
-const z = new Zomato('c33f7eda12c2d4c3496aed1c7884c1b9');
+const z = new Zomato(API-Key from Zomato);
 
 
 
